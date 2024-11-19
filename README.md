@@ -1,4 +1,4 @@
-- 👋 Hi, I’m .net full stack developer | ITI 
+- 👋 Hi, I’m .net full stack developer yrinee | ITI 
 
 
 <!---
