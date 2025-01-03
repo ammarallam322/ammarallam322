@@ -19,8 +19,11 @@
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/ammarallam322/)" target="_blank"></a>
-
+     <i class="fab fa-google"></i>&nbsp;<a href="mailto:ammarallam322@gmail.com?subject=contact" class="link">gmail account</a><br><br>
+                  <i class="fab fa-linkedin"></i><a href="https://linkedin.com" class="link">&nbsp;linkedin account</a><br><br>
+       <i class="fab fa-whatsapp"></i><a href="https://wa.me/01124252930" class="link">&nbsp;WhatApp account</a><br><br>
+         <i class="fab fa-facebook"></i><a href="https://facebook.com" class="link">&nbsp;facebook account</a><br><br>
+              
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
