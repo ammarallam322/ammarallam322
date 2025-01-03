@@ -18,12 +18,27 @@
 
 
 ### Connect with Me :
-<a href="mailto:ammarallam322@gmail.com?subject=contact" class="link">ammarallam322@gmail.com(gmail)</a>
-     <i class="fab fa-google"></i>&nbsp;<br>
-                  <i class="fab fa-linkedin"></i><a href="https://linkedin.com" class="link">&nbsp;عمار علام (linkedin) </a><br>
-       <i class="fab fa-whatsapp"></i><a href="https://wa.me/01124252930" class="link">&nbsp;my WhatApp account</a><br>
-         <i class="fab fa-facebook"></i><a href="https://facebook.com" class="link">&nbsp;عمار علام(facebook)</a><br><br>
-              
+
+### Connect with Me:
+
+- 📧 <a href="mailto:ammarallam322@gmail.com?subject=contact">
+  <img src="https://img.icons8.com/ios-filled/70/000000/google-logo.png" width="25"/> ammarallam322@gmail.com
+</a><br>
+
+- 💼 <a href="https://www.linkedin.com/in/ammar-allam/" dir="rtl">
+  <img src="https://img.icons8.com/ios-filled/70/000000/linkedin.png" width="25"/> عمار علام (linkedin)
+</a><br>
+
+- 💬 <a href="https://wa.me/01124252930">
+  <img src="https://img.icons8.com/ios-filled/70/000000/whatsapp.png" width="25"/> my WhatsApp account
+</a><br>
+
+- 📱 <a href="https://www.facebook.com/ammar.allam" dir="rtl">
+  <img src="https://img.icons8.com/ios-filled/70/000000/facebook.png" width="25"/> عمار علام (facebook)
+</a><br><br>
+
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
