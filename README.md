@@ -18,11 +18,11 @@
 
 
 ### Connect with Me :
-<a href="mailto:ammarallam322@gmail.com?subject=contact" class="link">gmail account</a>
+<a href="mailto:ammarallam322@gmail.com?subject=contact" class="link">my gmail account</a>
      <i class="fab fa-google"></i>&nbsp;<br><br>
-                  <i class="fab fa-linkedin"></i><a href="https://linkedin.com" class="link">&nbsp;linkedin account</a><br><br>
-       <i class="fab fa-whatsapp"></i><a href="https://wa.me/01124252930" class="link">&nbsp;WhatApp account</a><br><br>
-         <i class="fab fa-facebook"></i><a href="https://facebook.com" class="link">&nbsp;facebook account</a><br><br>
+                  <i class="fab fa-linkedin"></i><a href="https://linkedin.com" class="link">&nbsp;عمار علام</a><br><br>
+       <i class="fab fa-whatsapp"></i><a href="https://wa.me/01124252930" class="link">&nbsp;my WhatApp account</a><br><br>
+         <i class="fab fa-facebook"></i><a href="https://facebook.com" class="link">&nbsp;عمار علام</a><br><br>
               
 
 ### 🛠 &nbsp;Tech Stack
