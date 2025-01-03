@@ -1,4 +1,3 @@
-- 👋 Hi, I’m .net full stack developer yrinee | ITI 
 
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
@@ -20,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/ammarallam322/)" target="_blank"><img src=""/></a>
+<a href="[https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/ammarallam322/)" target="_blank"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -35,11 +34,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
 <!---
 ammarallam322/ammarallam322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
